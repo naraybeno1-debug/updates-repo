@@ -1,4 +1,4 @@
 {
-  "version": "1.1.4",
-  "releaseNotes": "Tábor bevétel megjelenítés + kiadás/számla rögzítés (kép/PDF)"
+  "version": "1.1.5",
+  "releaseNotes": "Lokális adattárolás + szinkron csak adatbázis-változáskor"
 }
