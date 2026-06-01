@@ -1,4 +1,4 @@
 {
-  "version": "1.1.1",
-  "releaseNotes": "Tábor résztvevők: részletek, eladott jegyek alapú számlálás, leírás eltávolítva"
+  "version": "1.1.2",
+  "releaseNotes": "OTA cache javítás + tábor lista (résztvevőszám), leírás eltávolítva"
 }
