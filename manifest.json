@@ -1,3 +1,4 @@
 {
-  "version": "1.1.0"
+  "version": "1.1.1",
+  "releaseNotes": "Tábor résztvevők: részletek, eladott jegyek alapú számlálás, leírás eltávolítva"
 }
