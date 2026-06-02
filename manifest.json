@@ -1,5 +1,6 @@
-{
-  "version": "1.1.6",
-  "minimumAppVersion": "1.0.0",
-  "releaseNotes": "Motorcsónak lista/adatlap és benzin mérő a központi adatbázisból; jelenléti ív mentése a szerverre; hibajavítások és kódtisztítás."
-}
+{
+  "version": "1.1.7",
+  "minimumAppVersion": "1.0.0",
+  "releaseNotes": "Gyorsabb menüváltás minden oldalon: adatok cache-ből azonnal megjelennek, nincs felesleges Betöltés képernyő."
+}
+
