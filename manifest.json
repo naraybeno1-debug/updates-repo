@@ -1,5 +1,5 @@
 {
-  "version": "1.1.12",
+  "version": "1.1.13",
   "minimumAppVersion": "1.0.0",
-  "releaseNotes": "Gyorsabb indulás: cache előtöltés, háttérszinkron, kevesebb felesleges API hívás induláskor."
+  "releaseNotes": "Hajóhely térkép javítás: Map ikon névütközés miatti összeomlás."
 }
