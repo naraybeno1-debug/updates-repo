@@ -1,5 +1,5 @@
 {
-  "version": "1.1.16",
+  "version": "1.1.17",
   "minimumAppVersion": "1.0.0",
-  "releaseNotes": "Gyorsabb tábor megnyitás: azonnali megjelenés, lassú DB scanek kivéve, párhuzamos betöltés."
+  "releaseNotes": "Foglalások javítás: webes foglalások megjelennek, cache frissül, naptár a következő hónapra ugrik."
 }
