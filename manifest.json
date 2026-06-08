@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "minimumAppVersion": "1.0.0",
-  "releaseNotes": "Hajóhely térkép: bérlők kikötő-nézetben, lista és részletek. Webes modul mobil változata."
+  "releaseNotes": "Tábor személyzet: edző és segítő hozzárendelése bérrel; pénzügyi összesítő (bevétel, kiadás, egyenleg)."
 }
 
