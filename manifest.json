@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "minimumAppVersion": "1.0.0",
-  "releaseNotes": "Gyorsabb menüváltás minden oldalon: adatok cache-ből azonnal megjelennek, nincs felesleges Betöltés képernyő."
+  "releaseNotes": "Hajóhely térkép: bérlők kikötő-nézetben, lista és részletek. Webes modul mobil változata."
 }
 
