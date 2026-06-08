@@ -1,6 +1,6 @@
 {
-  "version": "1.1.10",
+  "version": "1.1.11",
   "minimumAppVersion": "1.0.0",
-  "releaseNotes": "Javítás: tábor edző/segítő törlése megbízhatóan működik (cache + backend lookup fix)."
+  "releaseNotes": "Gyorsabb tábor személyzet mentés/törlés; jobb hibaüzenetek adatbázis hiba esetén."
 }
 
