@@ -1,6 +1,5 @@
-{
-  "version": "1.1.11",
-  "minimumAppVersion": "1.0.0",
-  "releaseNotes": "Gyorsabb tábor személyzet mentés/törlés; jobb hibaüzenetek adatbázis hiba esetén."
-}
-
+{
+  "version": "1.1.12",
+  "minimumAppVersion": "1.0.0",
+  "releaseNotes": "Gyorsabb indulás: cache előtöltés, háttérszinkron, kevesebb felesleges API hívás induláskor."
+}
