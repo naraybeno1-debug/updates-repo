@@ -1,5 +1,5 @@
 {
-  "version": "1.1.13",
+  "version": "1.1.14",
   "minimumAppVersion": "1.0.0",
-  "releaseNotes": "Hajóhely térkép javítás: Map ikon névütközés miatti összeomlás."
+  "releaseNotes": "Hajóhely lista: webes vásárlók (orphan rendelések), helyhez rendelt bérlők táblázat, tiszteletbeli és tartozik szekciók."
 }
