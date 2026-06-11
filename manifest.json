@@ -1,5 +1,5 @@
 {
-  "version": "1.1.18",
+  "version": "1.1.19",
   "minimumAppVersion": "1.0.0",
-  "releaseNotes": "Hajóhely QR beolvasás: a webes ZIP export RENTER:ASSIGN és RENTER kódok felismerése, bérlő adatok megjelenítése."
+  "releaseNotes": "Hajóhely JSON QR beolvasás: email/ticketId alapján rendelés vagy kézi bérlő adatok megjelenítése."
 }
